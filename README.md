@@ -2,8 +2,6 @@
 
 ✨ Contribute to open source projects for fun, challenge, future, and independence ✨
 
----
-
 ## At Orange
 
 iOS software engineer at [Orange](https://orange.com) in France 🇫🇷.
@@ -18,8 +16,6 @@ Currently working on them and also on other Orange open source projects.
   - [floss-toolbox](https://github.com/Orange-OpenSource/floss-toolbox)
   - [a11y-guidelines](https://github.com/Orange-OpenSource/a11y-guidelines)
 </details>
-
----
 
 ## In my side
 
@@ -52,19 +48,11 @@ You can [find more details on my website](https://pylapersonne.info/data/project
   - [Baah Box](https://github.com/Orange-OpenSource/BaahBox-Android)
 </details>
 
----
-
 ## Stats
-
----
 
 ## Socials
 
----
-
 ## Sponsoring
-
----
 
 ## Sponsors
 
