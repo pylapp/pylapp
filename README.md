@@ -1,6 +1,6 @@
-<p align="center" style="font-weight: bold">
+<h1 align="center" style="font-weight: bold;">
 ✨ Contribute to open source projects for fun, challenge, future, and independence ✨
-</p>
+</h1>
 
 ## 🍊 At Orange
 
