@@ -1,5 +1,3 @@
-## Woy! 👋
-
 **✨ Contribute to open source projects for fun, challenge, future, and independence ✨**
 
 ## 🍊 At Orange
@@ -63,6 +61,6 @@ You can find more details in the [curated list on my website](https://pylaperson
   </a>
 </p>
 <p align="left"> <!-- Should be self hosted, bad performances and glitches -->
-  <a href="[https://git.io/streak-stats](https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple)"><img src="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple" alt="GitHub Streak" /></a>
+  <a href="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple"><img src="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple" alt="GitHub Streak" /></a>
 </p>
 
