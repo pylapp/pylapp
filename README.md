@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold;">
-✨ Contributing to open source projects for fun, challenge, future, and independence ✨
+✨ Contribute to open source projects out of passion and for challenge, future and independence ✨
 </h1>
 
 ## 🍊 At Orange
