@@ -2,6 +2,14 @@
 ✨ Contribute to open source out of passion and for challenge, future and independence ✨
 </h1>
 
+<p align="center">
+  <a href="https://pylapersonne.info" title="My personal website">Website</a>
+  ·
+  <a href="https://pylapersonne.info/cv" title="My resume">CV</a>
+  ·
+  <a href="https://pylapersonne.info/donate" title="Support solutions">Support</a>
+</p>
+
 ## 🍊 At Orange
 
 **iOS software engineer at [Orange](https://orange.com) in France 🇫🇷.**
