@@ -71,13 +71,14 @@ Currently working on them and also on other Orange open source projects.
 <!-- Metrics, stats, figures -->
 ## 📈 Stats
 
-<p align="left">
+<p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple">
     <img src="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="Pierre-Yves Lapersonne's GitHub stats" width="420px">
   </a>
+  <!-- Unstable API, should be self-hosted 
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=pylapp&theme=midnight-purple&hide_border=false">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pylapp&theme=midnight-purple&hide_border=false" alt="Pierre-Yves Lapersonne's GitHub Streak stats" width="420px">
-  </a>
+  </a> -->
 </p>
 
 <!-- Trophies -->
