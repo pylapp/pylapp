@@ -20,7 +20,7 @@ Currently working on them and also on other Orange open source projects.
   - [a11y-guidelines](https://github.com/Orange-OpenSource/a11y-guidelines)
 </details>
 
-## 🧑‍💻 In my side
+## 🧑‍💻 On my side
 
 **I enjoy contributing to open source projects, overall if they are softwares I use in my personal life or professional activities.**
 
