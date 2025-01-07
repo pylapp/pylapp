@@ -66,3 +66,7 @@ Currently working on them and also on other Orange open source projects.
     <img src="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="Pierre-Yves Lapersonne's GitHub stats" width="420px">
   </a>
 </p>
+
+## Pins
+
+[![An image of @pylapp's Holopin badges, which is a link to view his full Holopin profile](https://holopin.me/pylapp)](https://holopin.io/@pylapp)
