@@ -5,7 +5,9 @@
 ## 🍊 At Orange
 
 iOS software engineer at [Orange](https://orange.com) in France 🇫🇷.
+
 One of the core maintainers of the [Orange Design System](https://github.com/Orange-OpenSource/ods-ios) and [Orange Unified Design System](https://github.com/Orange-OpenSource/ouds-ios) iOS librairies.
+
 Currently working on them and also on other Orange open source projects.
 
 <details>
@@ -21,6 +23,7 @@ Currently working on them and also on other Orange open source projects.
 ## 🧑‍💻 In my side
 
 I enjoy contributing to open source projects, overall if they are softwares I use in my personal life or profesional activities.
+
 You can [find more details on my website](https://pylapersonne.info/data/projects/index.html).
 
 <details>
