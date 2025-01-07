@@ -1,6 +1,6 @@
 ## Woy! 👋
 
-✨ Contribute to open source projects for fun, challenge, future, and independence ✨
+**✨ Contribute to open source projects for fun, challenge, future, and independence ✨**
 
 ## 🍊 At Orange
 
@@ -22,9 +22,7 @@ Currently working on them and also on other Orange open source projects.
 
 ## 🧑‍💻 In my side
 
-I enjoy contributing to open source projects, overall if they are softwares I use in my personal life or profesional activities.
-
-You can [find more details on my website](https://pylapersonne.info/data/projects/index.html).
+I enjoy contributing to open source projects, overall if they are softwares I use in my personal life or professional activities.
 
 <details>
   <summary>Current personal projects (1)</summary>
@@ -40,7 +38,7 @@ You can [find more details on my website](https://pylapersonne.info/data/project
 </details>
 
 <details>
-  <summary>External projects contributions (11)</summary>
+  <summary>External projects I contributed to (11)</summary>
   
   - [Impressia](https://github.com/Impressia/Impressia)
   - [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
@@ -55,11 +53,16 @@ You can [find more details on my website](https://pylapersonne.info/data/project
   - [Baah Box](https://github.com/Orange-OpenSource/BaahBox-Android)
 </details>
 
+You can [find more details on my website](https://pylapersonne.info/projects).
+
 ## Stats
 
-## Socials
-
-## Sponsoring
-
-## Sponsors
+<p align="left">
+  <a href="http://www.github.com/pylapp">
+    <img src="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="Pierre-Yves Lapersonne's GitHub stats" width="420px">
+  </a>
+  <a href="http://www.github.com/pylapp">
+    <img src="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple" width="420px">
+  </a>
+</p>
 
