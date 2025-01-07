@@ -10,9 +10,6 @@
   <a href="https://pylapersonne.info/donate" title="Support solutions">Support</a>
 </p>
 
-
-Count visitors badge: ![visitors](https://visitor-badge.glitch.me/badge?page_id=pylapp.pylapp)
-
 ## 🍊 At Orange
 
 **iOS software engineer at [Orange](https://orange.com) in France 🇫🇷.**
