@@ -1,10 +1,10 @@
 <h1 align="center" style="font-weight: bold;">
-✨ Contribute to open source projects for fun, challenge, future, and independence ✨
+✨ Contributing to open source projects for fun, challenge, future, and independence ✨
 </h1>
 
 ## 🍊 At Orange
 
-iOS software engineer at [Orange](https://orange.com) in France 🇫🇷.
+**iOS software engineer at [Orange](https://orange.com) in France 🇫🇷.**
 
 One of the core maintainers of the [Orange Design System](https://github.com/Orange-OpenSource/ods-ios) and [Orange Unified Design System](https://github.com/Orange-OpenSource/ouds-ios) iOS librairies.
 
@@ -22,7 +22,7 @@ Currently working on them and also on other Orange open source projects.
 
 ## 🧑‍💻 In my side
 
-I enjoy contributing to open source projects, overall if they are softwares I use in my personal life or professional activities.
+**I enjoy contributing to open source projects, overall if they are softwares I use in my personal life or professional activities.**
 
 <details>
   <summary>Current personal projects (1)</summary>
@@ -55,9 +55,11 @@ I enjoy contributing to open source projects, overall if they are softwares I us
 
 ## Stats
 
-<p align="center"> <!-- Should be self hosted, bad performances and glitches -->
+<!-- Should be self hosted, bad performances and glitches -->
+<!--
+<p align="center">
   <a href="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple"><img src="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple" alt="GitHub Streak" /></a>
-</p>
+</p>-->
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple">
