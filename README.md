@@ -1,4 +1,6 @@
+<center>
 **✨ Contribute to open source projects for fun, challenge, future, and independence ✨**
+</center>
 
 ## 🍊 At Orange
 
@@ -51,8 +53,6 @@ I enjoy contributing to open source projects, overall if they are softwares I us
   - [Baah Box](https://github.com/Orange-OpenSource/BaahBox-Android)
 </details>
 
-You can find more details in the [curated list on my website](https://pylapersonne.info/projects).
-
 ## Stats
 
 <p align="center"> <!-- Should be self hosted, bad performances and glitches -->
@@ -60,7 +60,7 @@ You can find more details in the [curated list on my website](https://pylaperson
 </p>
 
 <p align="center">
-  <a href="http://www.github.com/pylapp">
+  <a href="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple">
     <img src="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="Pierre-Yves Lapersonne's GitHub stats" width="420px">
   </a>
 </p>
