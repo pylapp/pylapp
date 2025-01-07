@@ -2,7 +2,7 @@
 
 ✨ Contribute to open source projects for fun, challenge, future, and independence ✨
 
-## At Orange
+## 🍊 At Orange
 
 iOS software engineer at [Orange](https://orange.com) in France 🇫🇷.
 One of the core maintainers of the [Orange Design System](https://github.com/Orange-OpenSource/ods-ios) and [Orange Unified Design System](https://github.com/Orange-OpenSource/ouds-ios) iOS librairies.
@@ -10,6 +10,7 @@ Currently working on them and also on other Orange open source projects.
 
 <details>
   <summary>List of FLOSS repositories (5)</summary>
+  
   - [OUDS iOS](https://github.com/Orange-OpenSource/ouds-ios)
   - [ODS iOS](https://github.com/Orange-OpenSource/ods-ios)
   - [ITS client](https://github.com/Orange-OpenSource/its-client)
@@ -17,24 +18,27 @@ Currently working on them and also on other Orange open source projects.
   - [a11y-guidelines](https://github.com/Orange-OpenSource/a11y-guidelines)
 </details>
 
-## In my side
+## 🧑‍💻 In my side
 
 I enjoy contributing to open source projects, overall if they are softwares I use in my personal life or profesional activities.
 You can [find more details on my website](https://pylapersonne.info/data/projects/index.html).
 
 <details>
   <summary>Current personal projects (1)</summary>
+  
   - [Tips'n'tools](https://github.com/pylapp/Tips-tools)
 </details>
 
 <details>
   <summary>Some archived projects of mine (2)</summary>
+  
   - [tapsterbot](https://github.com/pylapp/tapsterbot)
   - [Smooth Clicker](https://github.com/pylapp/SmoothClicker)
 </details>
 
 <details>
-  <summary>External projects contributions (2)</summary>
+  <summary>External projects contributions (11)</summary>
+  
   - [Impressia](https://github.com/Impressia/Impressia)
   - [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
   - [OsmAnd iOS](https://github.com/osmandapp/OsmAnd-iOS)
