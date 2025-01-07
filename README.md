@@ -55,12 +55,12 @@ You can find more details in the [curated list on my website](https://pylaperson
 
 ## Stats
 
-<p align="left">
+<p align="center"> <!-- Should be self hosted, bad performances and glitches -->
+  <a href="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple"><img src="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
   <a href="http://www.github.com/pylapp">
     <img src="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="Pierre-Yves Lapersonne's GitHub stats" width="420px">
   </a>
 </p>
-<p align="left"> <!-- Should be self hosted, bad performances and glitches -->
-  <a href="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple"><img src="https://streak-stats.demolab.com?user=pylapp&theme=midnight-purple" alt="GitHub Streak" /></a>
-</p>
-
