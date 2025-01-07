@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold;">
-✨ Contribute to open source out of passion and for challenge, future and independence ✨
+✨ Contribute to open source out of passion for challenge, future and independence ✨
 </h1>
 
 <p align="center">
