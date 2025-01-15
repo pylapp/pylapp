@@ -24,12 +24,12 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           file: 'README.md'
-          template: '<a href="https://github.com/{{{ login }}}" title="Go to GitHub profile of {{{ login }}}"><img src="{{{ avatarUrl }}}" width="50px" alt="User avatar of {{{ login }}}" /></a>&nbsp;&nbsp;'
+          template: '<a href="https://github.com/{{{ login }}}" title="Go to GitHub profile of sponsor {{{ login }}} or on github.com if sponsor is private"><img src="{{{ avatarUrl }}}" width="50px" alt="User avatar of sponsor {{{ login }}} or placeholder if private sponsor" /></a>&nbsp;&nbsp;'
           marker: 'real-sponsors'
           active-only: false
           include-private: true
 
-      - name: Deploy to GitHub Pages 🚀
+      - name: Deploy to GitHub 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: main
