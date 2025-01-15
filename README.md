@@ -75,6 +75,7 @@ Currently working on them and also on other Orange open source projects.
 <!-- Metrics, stats, figures -->
 ## 📈 Stats
 
+<!-- From https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple">
     <img src="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="Pierre-Yves Lapersonne's GitHub stats" width="420px">
@@ -88,6 +89,8 @@ Currently working on them and also on other Orange open source projects.
 <!-- Trophies -->
 
 ## 🏆 GitHub Trophies
+
+<!-- From https://github.com/ryo-ma/github-profile-trophy -->
 ![](https://github-profile-trophy.vercel.app/?username=pylapp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Holopins -->
