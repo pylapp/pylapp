@@ -90,3 +90,15 @@ Currently working on them and also on other Orange open source projects.
 ## 🏅 Pins
 
 [![An image of @pylapp's Holopin badges, which is a link to view his full Holopin profile](https://holopin.me/pylapp)](https://holopin.io/@pylapp)
+
+<!-- Sponsors -->
+
+## 🤩 Sponsors
+
+### One time sponsors
+
+<p align="center">
+<a href="https://github.com/michel-morin" title="GitHub profile of Michel Morin (@mochel-morin)" alt="Profile picture of Michel Morin GitHub user (@michel-morin)">
+<img src="https://avatars.githubusercontent.com/u/191025642?v=4" alt="Profile picture of Michel Morin GitHub account (@michel-morin)" style="width: 10%;"/>
+</a>
+</p>
