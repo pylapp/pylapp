@@ -1,3 +1,7 @@
+<!-- SPDX-FileCopyrightText: Copyright (c) Pierre-Yves Lapersonne -->
+<!-- SPDX-License-Identifier: MIT -->
+<!-- ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一 -->
+
 <!-- Motto -->
 <h1 align="center" style="font-weight: bold;">
 ✨ Contribute to open source out of passion for challenge, future and independence ✨
@@ -95,7 +99,7 @@ Currently working on them and also on other Orange open source projects.
 
 ## 🤩 Sponsors
 
-### One time sponsors
+<!-- real-sponsors --><!-- real-sponsors -->
 
 <p align="center">
 <a href="https://github.com/michel-morin" title="GitHub profile of Michel Morin (@mochel-morin)" alt="Profile picture of Michel Morin GitHub user (@michel-morin)">
