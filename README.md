@@ -99,10 +99,13 @@ Currently working on them and also on other Orange open source projects.
 
 ## 🤩 Sponsors
 
+<!-- From https://github.com/JamesIves/github-sponsors-readme-action -->
 <!-- real-sponsors --><!-- real-sponsors -->
 
+<!-- TODO: Remove entries below when action above suceeds, maybe CDN or page refresh trouble son GitHub side? -->
+
 <p align="center">
-<a href="https://github.com/michel-morin" title="GitHub profile of Michel Morin (@mochel-morin)" alt="Profile picture of Michel Morin GitHub user (@michel-morin)">
+<a href="https://github.com/michel-morin" title="GitHub profile of Michel Morin (@michel-morin)" alt="Profile picture of Michel Morin GitHub user (@michel-morin)">
 <img src="https://avatars.githubusercontent.com/u/191025642?v=4" alt="Profile picture of Michel Morin GitHub account (@michel-morin)" style="width: 10%; border-radius: 50%;"/>
 </a>
 </p>
