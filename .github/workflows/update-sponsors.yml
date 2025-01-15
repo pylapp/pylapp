@@ -28,3 +28,9 @@ jobs:
           marker: 'real-sponsors'
           active-only: false
           include-private: true
+
+      - name: Deploy to GitHub Pages 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: main
+          folder: '.'
