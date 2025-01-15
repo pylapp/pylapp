@@ -103,5 +103,5 @@ Currently working on them and also on other Orange open source projects.
 <!-- Note that for "private" sponsors the personal data like logins and avatars might be unavailable -->
 
 <p align="center">
-<!-- real-sponsors --><!-- real-sponsors -->
+<!-- real-sponsors --><a href="https://github.com/" title="Go to GitHub profile of sponsor  or on github.com if sponsor is private"><img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;JamesIves&#x2F;github-sponsors-readme-action&#x2F;dev&#x2F;.github&#x2F;assets&#x2F;placeholder.png" width="50px" alt="User avatar of sponsor  or placeholder if private sponsor" /></a>&nbsp;&nbsp;<!-- real-sponsors -->
 </p>
