@@ -26,12 +26,23 @@ One of the core maintainers of the [Orange Design System](https://github.com/Ora
 Currently working on them and also on other Orange open source projects.
 
 <details>
-  <summary>List of FLOSS repositories (4)</summary>
+  <summary>List of current projects (4)</summary>
   
   - [OUDS iOS](https://github.com/Orange-OpenSource/ouds-ios)
   - [ODS iOS](https://github.com/Orange-OpenSource/ods-ios)
   - [floss-toolbox](https://github.com/Orange-OpenSource/floss-toolbox)
   - [a11y-guidelines](https://github.com/Orange-OpenSource/a11y-guidelines)
+</details>
+
+<details>
+  <summary>List of former projects (6)</summary>
+  
+  - [BaahBox Android](https://github.com/Orange-OpenSource/BaahBox-Android)
+  - [BaahBox iOS](https://github.com/Orange-OpenSource/BaahBox-iOS)
+  - [gradle-properties-checker](https://github.com/Orange-OpenSource/gradle-properties-checker)
+  - [copyright-checker](https://github.com/Orange-OpenSource/copyright-checker)
+  - [Swift-AssetsLegalMentionsChecker](https://github.com/Orange-OpenSource/Swift-AssetsLegalMentionsChecker)
+  - [Swift-SourcesHeaderChecker](https://github.com/Orange-OpenSource/Swift-SourcesHeaderChecker)
 </details>
 
 <!-- Personal life -->
@@ -72,7 +83,6 @@ Currently working on them and also on other Orange open source projects.
   - [developers conferences agenda](https://github.com/scraly/developers-conferences-agenda)
   - [Vite ma dose](https://github.com/CovidTrackerFr/vitemadose-ios)
   - [Nearby Weather](https://github.com/erikmartens/nearbyweather-legacy)
-  - [Baah Box](https://github.com/Orange-OpenSource/BaahBox-Android)
 </details>
 
 <!-- Metrics, stats, figures -->
