@@ -67,7 +67,7 @@ Currently working on them and also on other Orange open source projects.
 
 <!-- Projects I contributed to (the older it is, the lower it is) -->
 <details>
-  <summary>External projects I contributed to (15)</summary>
+  <summary>External projects I contributed to (14)</summary>
 
   - [2FAS iOS](https://github.com/twofas/2fas-ios)
   - [mlem](https://github.com/mlemgroup/mlem)
