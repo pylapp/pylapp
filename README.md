@@ -26,9 +26,10 @@ One of the core maintainers of the [Orange Design System](https://github.com/Ora
 Currently working on them and also on other Orange open source projects.
 
 <details>
-  <summary>List of current projects (4)</summary>
+  <summary>List of current projects (5)</summary>
   
-  - [OUDS iOS](https://github.com/Orange-OpenSource/ouds-ios)
+  - [OUDS iOS (Swift Package)](https://github.com/Orange-OpenSource/ouds-ios)
+  - [OUDS iOS (Design System Toolbox app)](https://github.com/Orange-OpenSource/ouds-ios-design-system-toolbox)
   - [ODS iOS](https://github.com/Orange-OpenSource/ods-ios)
   - [floss-toolbox](https://github.com/Orange-OpenSource/floss-toolbox)
   - [a11y-guidelines](https://github.com/Orange-OpenSource/a11y-guidelines)
