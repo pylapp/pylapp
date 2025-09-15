@@ -58,7 +58,7 @@ Currently working on them and also on other Orange open source projects.
   - [Tips'n'tools](https://github.com/pylapp/Tips-tools)
 </details>
 
-<!-- Personal archived projects (the older it is, the lower it is) -->
+<!-- Personal archived projects (alphabetical order) -->
 <details>
   <summary>Some archived projects of mine (2)</summary>
   
@@ -66,25 +66,27 @@ Currently working on them and also on other Orange open source projects.
   - [Smooth Clicker](https://github.com/pylapp/SmoothClicker)
 </details>
 
-<!-- Projects I contributed to (the older it is, the lower it is) -->
+<!-- Projects I contributed to (alphabetical order) -->
 <details>
-  <summary>External projects I contributed to (15)</summary>
+  <summary>External projects I contributed to (16)</summary>
 
-  - [maigret](https://github.com/soxoj/maigret)
   - [2FAS iOS](https://github.com/twofas/2fas-ios)
-  - [mlem](https://github.com/mlemgroup/mlem)
   - [Cryptomator iOS](https://github.com/cryptomator/ios)
-  - [stats](https://github.com/exelban/stats)
-  - [Impressia](https://github.com/Impressia/Impressia)
-  - [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
-  - [OsmAnd iOS](https://github.com/osmandapp/OsmAnd-iOS)
-  - [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
-  - [Monal](https://github.com/monal-im/Monal)
-  - [Tella iOS](https://github.com/Horizontal-org/Tella-iOS)
-  - [open source events](https://github.com/Everything-Open-Source/open-source-events)
   - [developers conferences agenda](https://github.com/scraly/developers-conferences-agenda)
-  - [Vite ma dose](https://github.com/CovidTrackerFr/vitemadose-ios)
+  - [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
+  - [Impressia](https://github.com/Impressia/Impressia)
+  - [maigret](https://github.com/soxoj/maigret)
+  - [mlem](https://github.com/mlemgroup/mlem)
+  - [Monal](https://github.com/monal-im/Monal)
   - [Nearby Weather](https://github.com/erikmartens/nearbyweather-legacy)
+  - [open source events](https://github.com/Everything-Open-Source/open-source-events)
+  - [OsmAnd iOS](https://github.com/osmandapp/OsmAnd-iOS)
+  - [sherlock](https://github.com/sherlock-project/sherlock)
+  - [stats](https://github.com/exelban/stats)
+  - [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
+  - [Tella iOS](https://github.com/Horizontal-org/Tella-iOS)
+  - [Vite ma dose](https://github.com/CovidTrackerFr/vitemadose-ios)
+  
 </details>
 
 <!-- Metrics, stats, figures -->
