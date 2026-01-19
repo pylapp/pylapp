@@ -108,7 +108,16 @@ Currently working on them and also on other Orange open source projects.
 ## 🏆 GitHub Trophies
 
 <!-- From https://github.com/ryo-ma/github-profile-trophy -->
-![](https://github-profile-trophy.vercel.app/?username=pylapp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- 
+Need to use other Vercel instances, for example:
+- https://github-profile-trophy-liard-delta.vercel.app/ (not working)
+- https://github-profile-trophy-winning.vercel.app/ (not working)
+- https://github-profile-trophy-fork-two.vercel.app/ 
+- https://github-profile-trophy-kannan.vercel.app/
+
+See https://github.com/ryo-ma/github-profile-trophy/issues/406
+-->
+![](https://github-profile-trophy-fork-two.vercel.app/?username=pylapp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Holopins -->
 ## 🏅 Pins
