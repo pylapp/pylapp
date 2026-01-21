@@ -1,13 +1,14 @@
+# SPDX-FileCopyrightText: Copyright (c) Pierre-Yves Lapersonne
+# SPDX-License-Identifier: MIT
+# ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一
 
-# https://github.com/marketplace/actions/github-readme-stats-action?version=v1.1.0
-# Original source: https://github.com/soulteary/soulteary/blob/main/.github/workflows/cards.yml
+# https://github.com/soulteary/github-profile-trophy-action/
 
 name: Update README Trophies
 on:
   schedule:
     - cron: 0 23 * * 5 # Each friday at 23:00
   workflow_dispatch:
-permissions: {}
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,7 +18,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate trophy card
-        uses: soulteary/github-profile-trophy-action@v1.0.0
+        uses: soulteary/github-profile-trophy-action@cabefc1ce203b1ce4c03dae3335aa794aefbbb80 (v1.0.0)
         with:
           options: 'username=${{ github.repository_owner }}&theme=radical&no-frame=false&no-bg=true&margin-w=4'
           path: .github/assets/trophy.svg

@@ -12,12 +12,12 @@ Copyright (c) 2026 Su Yang
 *github-profile-trophy-action* is distributed under the terms and conditions of the [MIT license](https://opensource.org/license/MIT).
 You may download the source code on the [following website](https://github.com/soulteary/github-profile-trophy-action).
 
-## github-readme-stats
+## github-readme-stats-action
 
-Copyright (c) 2020 Anurag Hazra
+Copyright (c) 2026 Su Yang
 
-*github-readme-stats* is distributed under the terms and conditions of the [MIT license](https://opensource.org/license/MIT).
-You may download the source code on the [following website](https://github.com/anuraghazra/github-readme-stats).
+*github-readme-stats-action* is distributed under the terms and conditions of the [MIT license](https://opensource.org/license/MIT).
+You may download the source code on the [following website](https://github.com/soulteary/github-readme-stats-action).
 
 ## github-sponsors-readme-action
 

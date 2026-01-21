@@ -1,0 +1,36 @@
+# SPDX-FileCopyrightText: Copyright (c) Pierre-Yves Lapersonne
+# SPDX-License-Identifier: MIT
+# ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一
+
+# https://github.com/soulteary/github-readme-stats-action
+
+name: Update README Stats
+on:
+  schedule:
+    - cron: 0 23 * * 5 # Each friday at 23:00
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: soulteary/github-readme-stats-action@f6a050a9d2f1af6235f1eecafe00894b053ccb5d (v1.0.0)
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple'
+          path: .github/assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets/stats.svg
+          git commit -m $'chore(🤖): update README stats\n\nThis is an automated commit' || exit 0
+          git push

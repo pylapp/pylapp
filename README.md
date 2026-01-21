@@ -90,32 +90,19 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
 <!-- Metrics, stats, figures -->
 ## 📈 Stats
 
-<!-- From https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple">
-    <img src="https://github-readme-stats.vercel.app/api?username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="Pierre-Yves Lapersonne's GitHub stats" width="420px">
-  </a>
-  <!-- Unstable API, should be self-hosted 
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=pylapp&theme=midnight-purple&hide_border=false">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pylapp&theme=midnight-purple&hide_border=false" alt="Pierre-Yves Lapersonne's GitHub Streak stats" width="420px">
-  </a> -->
-</p>
+![Pierre-Yves Lapersonne's GitHub stats - All Ranks](.github/assets/stats.svg) <!-- Updated thank to GitHub Action update-stats.yml workflow -->
 
 <!-- Trophies -->
-
 ## 🏆 GitHub Trophies
 
-<!-- Updated thank to GitHub Action update-trophies.yml workflow -->
-![Pierre-Yves Laperonne's's GitHub stats - All Ranks](.github/assets/trophy.svg)
+![Pierre-Yves Lapersonne's GitHub trophies - All Ranks](.github/assets/trophy.svg) <!-- Updated thank to GitHub Action update-trophies.yml workflow -->
 
 <!-- Holopins -->
-
 ## 🏅 Pins
 
 [![An image of @pylapp's Holopin badges, which is a link to view his full Holopin profile](https://holopin.me/pylapp)](https://holopin.io/@pylapp)
 
 <!-- Sponsors -->
-
 ## 🤩 Sponsors
 
 <!-- From https://github.com/JamesIves/github-sponsors-readme-action -->
