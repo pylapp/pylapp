@@ -2,6 +2,8 @@
 # SPDX-License-Identifier: MIT
 # ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一
 
+# https://github.com/JamesIves/github-sponsors-readme-action
+
 name: Update README Sponsors
 on:
   push:
@@ -16,11 +18,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Sponsors 💖
-        uses: JamesIves/github-sponsors-readme-action@v1
+      - name: Generate Sponsors
+        uses: JamesIves/github-sponsors-readme-action@2fd9142e765f755780202122261dc85e78459405 # v1.6.0
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           file: 'README.md'
