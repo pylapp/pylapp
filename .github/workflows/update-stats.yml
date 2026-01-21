@@ -7,7 +7,7 @@
 name: Update README Stats
 on:
   schedule:
-    - cron: 0 23 * * 5 # Each friday at 23:00
+    - cron: 0 23 1 * * # Each #st day of the month at 23:00
   workflow_dispatch:
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: soulteary/github-readme-stats-action@f6a050a9d2f1af6235f1eecafe00894b053ccb5d (v1.0.0)
+        uses: soulteary/github-readme-stats-action@f6a050a9d2f1af6235f1eecafe00894b053ccb5d # (v1.0.0)
         with:
           card: stats
           options: 'username=${{ github.repository_owner }}&username=pylapp&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple'
