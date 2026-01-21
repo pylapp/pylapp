@@ -5,12 +5,12 @@ This document contains the list of Third Party Softwares along with the license 
 Third Party Software may impose additional restrictions and it is the user's responsibility to ensure that they have met the licensing
 requirements of the relevant license of the Third Party Software they are using.
 
-## github-profile-trophy
+## github-profile-trophy-action
 
-Copyright (c) 2020 ryo-ma
+Copyright (c) 2026 Su Yang
 
-*github-profile-trophy* is distributed under the terms and conditions of the [MIT license](https://opensource.org/license/MIT).
-You may download the source code on the [following website](https://github.com/ryo-ma/github-profile-trophy).
+*github-profile-trophy-action* is distributed under the terms and conditions of the [MIT license](https://opensource.org/license/MIT).
+You may download the source code on the [following website](https://github.com/soulteary/github-profile-trophy-action).
 
 ## github-readme-stats
 

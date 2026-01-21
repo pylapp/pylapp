@@ -21,16 +21,13 @@
 
 **iOS software engineer at [Orange](https://orange.com) in France 🇫🇷.**
 
-One of the core maintainers of the [Orange Design System](https://github.com/Orange-OpenSource/ods-ios) and [Orange Unified Design System](https://github.com/Orange-OpenSource/ouds-ios) iOS librairies.
-
-Currently working on them and also on other Orange open source projects.
+One of the core maintainers of [Orange Unified Design System](https://github.com/Orange-OpenSource/ouds-ios) iOS librairy.
 
 <details>
   <summary>List of current projects (5)</summary>
   
   - [OUDS iOS (Swift Package)](https://github.com/Orange-OpenSource/ouds-ios)
   - [OUDS iOS (Design System Toolbox app)](https://github.com/Orange-OpenSource/ouds-ios-design-system-toolbox)
-  - [ODS iOS](https://github.com/Orange-OpenSource/ods-ios)
   - [floss-toolbox](https://github.com/Orange-OpenSource/floss-toolbox)
   - [a11y-guidelines](https://github.com/Orange-OpenSource/a11y-guidelines)
 </details>
@@ -40,8 +37,9 @@ Currently working on them and also on other Orange open source projects.
   
   - [BaahBox Android](https://github.com/Orange-OpenSource/BaahBox-Android)
   - [BaahBox iOS](https://github.com/Orange-OpenSource/BaahBox-iOS)
-  - [gradle-properties-checker](https://github.com/Orange-OpenSource/gradle-properties-checker)
   - [copyright-checker](https://github.com/Orange-OpenSource/copyright-checker)
+  - [gradle-properties-checker](https://github.com/Orange-OpenSource/gradle-properties-checker)
+  - [ODS iOS](https://github.com/Orange-OpenSource/ods-ios)
   - [Swift-AssetsLegalMentionsChecker](https://github.com/Orange-OpenSource/Swift-AssetsLegalMentionsChecker)
   - [Swift-SourcesHeaderChecker](https://github.com/Orange-OpenSource/Swift-SourcesHeaderChecker)
 </details>
@@ -107,19 +105,11 @@ Currently working on them and also on other Orange open source projects.
 
 ## 🏆 GitHub Trophies
 
-<!-- From https://github.com/ryo-ma/github-profile-trophy -->
-<!-- 
-Need to use other Vercel instances, for example:
-- https://github-profile-trophy-liard-delta.vercel.app/ (not working)
-- https://github-profile-trophy-winning.vercel.app/ (not working)
-- https://github-profile-trophy-fork-two.vercel.app/ 
-- https://github-profile-trophy-kannan.vercel.app/
-
-See https://github.com/ryo-ma/github-profile-trophy/issues/406
--->
-![](https://github-profile-trophy-fork-two.vercel.app/?username=pylapp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Updated thank to GitHub Action update-trophies.yml workflow -->
+![Pierre-Yves Laperonne's's GitHub stats - All Ranks](.github/assets/trophy.svg)
 
 <!-- Holopins -->
+
 ## 🏅 Pins
 
 [![An image of @pylapp's Holopin badges, which is a link to view his full Holopin profile](https://holopin.me/pylapp)](https://holopin.io/@pylapp)

@@ -2,14 +2,14 @@
 # SPDX-License-Identifier: MIT
 # ✿✿✿✿ ʕ •ᴥ•ʔ/ ︻デ═一
 
-name: Update Sponsors README
+name: Update README Sponsors
 on:
   push:
     branches:
       - main
   workflow_dispatch:
   schedule:
-    - cron: 30 15 * * 0-6
+    - cron: 0 23 * * 5 # Each friday at 23:00
 permissions:
   contents: write
 jobs:

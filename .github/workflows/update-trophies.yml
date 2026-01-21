@@ -1,0 +1,32 @@
+
+# https://github.com/marketplace/actions/github-readme-stats-action?version=v1.1.0
+# Original source: https://github.com/soulteary/soulteary/blob/main/.github/workflows/cards.yml
+
+name: Update README Trophies
+on:
+  schedule:
+    - cron: 0 23 * * 5 # Each friday at 23:00
+  workflow_dispatch:
+permissions: {}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=radical&no-frame=false&no-bg=true&margin-w=4'
+          path: .github/assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+  
+      - name: Commit trophy card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets/trophy.svg
+          git commit -m $'chore(🤖): update README trophies\n\nThis is an automated commit' || exit 0
+          git push
