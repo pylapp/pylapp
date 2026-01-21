@@ -7,7 +7,7 @@
 name: Update README Trophies
 on:
   schedule:
-    - cron: 0 23 1 * * # Each #st day of the month at 23:00
+    - cron: 0 7 1 * * # Each #st day of the month at 07:00
   workflow_dispatch:
 jobs:
   build:
