@@ -26,14 +26,15 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
 <details>
   <summary>List of current projects (5)</summary>
   
-  - [OUDS iOS (Swift Package)](https://github.com/Orange-OpenSource/ouds-ios)
-  - [OUDS iOS (Design System Toolbox app)](https://github.com/Orange-OpenSource/ouds-ios-design-system-toolbox)
-  - [floss-toolbox](https://github.com/Orange-OpenSource/floss-toolbox)
   - [a11y-guidelines](https://github.com/Orange-OpenSource/a11y-guidelines)
+  - [accessibility-statement-lib-ios](https://github.com/Orange-OpenSource/accessibility-statement-lib-ios)
+  - [floss-toolbox](https://github.com/Orange-OpenSource/floss-toolbox)
+  - [OUDS iOS (Design System Toolbox app)](https://github.com/Orange-OpenSource/ouds-ios-design-system-toolbox)
+  - [OUDS iOS (Swift Package)](https://github.com/Orange-OpenSource/ouds-ios)
 </details>
 
 <details>
-  <summary>List of former projects (6)</summary>
+  <summary>List of former projects (7)</summary>
   
   - [BaahBox Android](https://github.com/Orange-OpenSource/BaahBox-Android)
   - [BaahBox iOS](https://github.com/Orange-OpenSource/BaahBox-iOS)
