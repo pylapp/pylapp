@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate trophy card
-        uses: soulteary/github-profile-trophy-action@cabefc1ce203b1ce4c03dae3335aa794aefbbb80 # (v1.0.0)
+        uses: soulteary/github-profile-trophy-action@deb1c20e108c1815a7ba24b3e86a8e9ffe1b568e # (v1.0.0)
         with:
           options: 'username=${{ github.repository_owner }}&theme=radical&no-frame=false&no-bg=true&margin-w=4'
           path: .github/assets/trophy.svg
