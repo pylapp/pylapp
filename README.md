@@ -54,7 +54,7 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
 <details>
   <summary>Current personal projects (1)</summary>
   
-  - [Tips'n'tools](https://github.com/pylapp/Tips-tools)
+  - [Tips'n'tools](https://codeberg.org/pylapp/Tips-tools)
 </details>
 
 <!-- Personal archived projects (alphabetical order) -->
