@@ -72,6 +72,7 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
   - [2FAS iOS](https://github.com/twofas/2fas-ios)
   - [Cryptomator iOS](https://github.com/cryptomator/ios)
   - [developers conferences agenda](https://github.com/scraly/developers-conferences-agenda)
+  - [GitHub Security Alerts](https://github.com/stephanebouget/github-security-alerts)
   - [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
   - [Impressia](https://github.com/Impressia/Impressia)
   - [maigret](https://github.com/soxoj/maigret)
