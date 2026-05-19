@@ -21,7 +21,7 @@
 
 **iOS software engineer at [Orange](https://orange.com) in France 🇫🇷.**
 
-One of the core maintainers of [Orange Unified Design System](https://github.com/Orange-OpenSource/ouds-ios) iOS librairy.
+One of the core maintainers of [Orange Unified Design System](https://github.com/Orange-OpenSource/ouds-ios) iOS library.
 
 <details>
   <summary>List of current projects (5)</summary>
@@ -61,13 +61,13 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
 <details>
   <summary>Some archived projects of mine (2)</summary>
   
-  - [tapsterbot](https://github.com/pylapp/tapsterbot)
   - [Smooth Clicker](https://github.com/pylapp/SmoothClicker)
+  - [tapsterbot](https://github.com/pylapp/tapsterbot)
 </details>
 
 <!-- Projects I contributed to (alphabetical order) -->
 <details>
-  <summary>External projects I contributed to (16)</summary>
+  <summary>External projects I contributed to (18)</summary>
 
   - [2FAS iOS](https://github.com/twofas/2fas-ios)
   - [Cryptomator iOS](https://github.com/cryptomator/ios)
@@ -82,11 +82,11 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
   - [open source events](https://github.com/Everything-Open-Source/open-source-events)
   - [OsmAnd iOS](https://github.com/osmandapp/OsmAnd-iOS)
   - [sherlock](https://github.com/sherlock-project/sherlock)
+  - [Signal iOS](https://github.com/signalapp/Signal-iOS)
   - [stats](https://github.com/exelban/stats)
   - [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
   - [Tella iOS](https://github.com/Horizontal-org/Tella-iOS)
   - [Vite ma dose](https://github.com/CovidTrackerFr/vitemadose-ios)
-  
 </details>
 
 <!-- Metrics, stats, figures -->
