@@ -113,3 +113,27 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
 <p align="center">
 <!-- real-sponsors --><a href="https://github.com/" title="Go to GitHub profile of sponsor  or on github.com if sponsor is private"><img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;JamesIves&#x2F;github-sponsors-readme-action&#x2F;dev&#x2F;.github&#x2F;assets&#x2F;placeholder.png" width="50px" alt="User avatar of sponsor  or placeholder if private sponsor" /></a>&nbsp;&nbsp;<!-- real-sponsors -->
 </p>
+
+<!-- Verify commits -->
+## 🔑 Authenticity
+
+> [!TIP]
+> You can verify my commits, tags and artifacts authenticity using GPG
+
+1. Get my public key from [keys.openpgp.org](https://keys.openpgp.org/) for the email associated to the object (like Git commit or Git tag)
+2. Import it with `gpg --import` command
+3. Run the Git verification command
+
+```bash
+# Verify a Git commit with a given HASH
+git verify-commit HASH
+
+# Verify a Git tag with a given NAME
+git verify-tag NAME
+
+# Show signatures
+git log -v --show-signature
+
+# Verify authenticity of ab ARTIFACT with its associated .asc
+gpg --verify ARTIFACT.asc ARTIFACT
+```
