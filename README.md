@@ -66,7 +66,7 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
 
 <!-- Projects I contributed to (alphabetical order) -->
 <details>
-  <summary>External projects I contributed to (19)</summary>
+  <summary>External projects I contributed to (20)</summary>
 
   - [2FAS iOS](https://github.com/twofas/2fas-ios)
   - [Cryptomator iOS](https://github.com/cryptomator/ios)
@@ -86,7 +86,8 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
   - [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
   - [tapsterbot](https://github.com/pylapp/tapsterbot)
   - [Tella iOS](https://github.com/Horizontal-org/Tella-iOS)
-  - [Vite ma dose](https://github.com/CovidTrackerFr/vitemadose-ios)
+  - [Vite ma dose iOS](https://github.com/CovidTrackerFr/vitemadose-ios)
+  - [Wikipedia iOS](https://github.com/wikimedia/wikipedia-ios)
 </details>
 
 <!-- Metrics, stats, figures -->
