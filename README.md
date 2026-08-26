@@ -61,7 +61,7 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
 <details>
   <summary>Some archived projects of mine (1)</summary>
   
-  - [Smooth Clicker](https://github.com/pylapp/SmoothClicker)
+  - [Smooth Clicker](https://codeberg.org/pylapp/SmoothClicker)
 </details>
 
 <!-- Projects I contributed to (alphabetical order) -->
