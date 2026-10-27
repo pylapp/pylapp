@@ -84,7 +84,7 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
   - [Signal iOS](https://github.com/signalapp/Signal-iOS)
   - [stats](https://github.com/exelban/stats)
   - [Strongbox](https://github.com/strongbox-password-safe/Strongbox)
-  - [tapsterbot](https://github.com/pylapp/tapsterbot)
+  - [tapsterbot](https://codeberg.org/pylapp/tapster)
   - [Tella iOS](https://github.com/Horizontal-org/Tella-iOS)
   - [Vite ma dose iOS](https://github.com/CovidTrackerFr/vitemadose-ios)
   - [Wikipedia iOS](https://github.com/wikimedia/wikipedia-ios)
