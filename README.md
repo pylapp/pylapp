@@ -52,8 +52,9 @@ One of the core maintainers of [Orange Unified Design System](https://github.com
 
 <!-- Current personal active projects -->
 <details>
-  <summary>Current personal projects (1)</summary>
+  <summary>Current personal projects (2)</summary>
   
+  - [MISO iOS](https://github.com/pylapp/miso-ios)
   - [Tips'n'tools](https://codeberg.org/pylapp/Tips-tools)
 </details>
 
