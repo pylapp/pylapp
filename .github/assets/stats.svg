@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Pierre-Yves Lapersonne&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 1021, Total PRs: 761, Total PRs Merged: 698, Merged PRs Percentage: 91.72, Total PRs Reviewed: 74, Total Issues: 1024, Total Discussions Started: 120, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 1255, Total PRs: 778, Total PRs Merged: 714, Merged PRs Percentage: 91.77, Total PRs Reviewed: 69, Total Issues: 1053, Total Discussions Started: 125, Contributed to (last year): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.41980743816406;
+        stroke-dashoffset: 82.24052181458413;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >1k</text>
+      >1.3k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >761</text>
+      >778</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >698</text>
+      >714</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >91.72 %</text>
+      >91.77 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -244,7 +244,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >74</text>
+      >69</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -259,7 +259,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >1k</text>
+      >1.1k</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
@@ -274,7 +274,7 @@
         x="224.01"
         y="12.5"
         data-testid="discussions_started"
-      >120</text>
+      >125</text>
     </g>
   </g><g transform="translate(0, 200)">
     <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)">
@@ -289,7 +289,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >28</text>
+      >29</text>
     </g>
   </g>
     </svg>
