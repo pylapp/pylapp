@@ -136,6 +136,6 @@ git verify-tag NAME
 # Show signatures
 git log -v --show-signature
 
-# Verify authenticity of ab ARTIFACT with its associated .asc
+# Verify authenticity of an ARTIFACT with its associated .asc
 gpg --verify ARTIFACT.asc ARTIFACT
 ```
