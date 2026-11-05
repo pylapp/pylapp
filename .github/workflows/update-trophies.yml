@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
 
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@cabefc1ce203b1ce4c03dae3335aa794aefbbb80 # (v1.0.0)
